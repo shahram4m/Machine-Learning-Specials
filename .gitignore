@@ -1,0 +1,14 @@
+#some stuff
+.idea/
+
+#virtual env
+venv/
+
+#database
+db.sqlite3
+
+#static file
+files/
+
+#some log
+.log/
